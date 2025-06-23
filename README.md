@@ -1,7 +1,8 @@
 ## Code Biruny - Building Digital Bridges Worldwide
 <img src="./cover1.png" width="100%" />
-### About Us
-- Code Biruny is a globally recognized technology company committed to delivering seamless digital experiences. We specialize in connecting businesses across continents through innovative and cutting-edge technological solutions, fostering global connectivity.
+
+#### About Us
+Code Biruny is a globally recognized technology company committed to delivering seamless digital experiences. We specialize in connecting businesses across continents through innovative and cutting-edge technological solutions, fostering global connectivity.
 
 ### Company Overview
 - **Mission:** To empower businesses worldwide with advanced digital infrastructure.
@@ -34,11 +35,55 @@ Our expertise spans a wide array of modern technologies and tools to ensure robu
 
 <p align="center">
   <!-- UI Frameworks & Extras (use placeholder logos or brand assets from their GitHub pages if not on Simple Icons) -->
-  <img src="https://raw.githubusercontent.com/saadeghi/daisyui/release/assets/daisyui-logo-light.svg" alt="daisyUI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="40" height="40"/>
   <img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn UI" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/111203109?s=200&v=4" alt="Magic UI" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/141540596?s=200&v=4" alt="NextUI" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="40" height="40"/>
 </p>
+
+
+### Community & Support
+
+We value our community and encourage active participation. Here's how you can connect and contribute:
+
+- **🔧 Issues:** [Report bugs or request features](../../issues)
+- **💬 Discussions:** [Join our community conversations](../../discussions)
+- **📬 Support:** Contact us at [support@codebiruny.com](mailto:support@codebiruny.com)
+
+---
+
+### Get Involved
+
+Help us build better digital bridges! Here’s how you can get involved:
+
+- 🌟 **Star** this repository to stay updated.
+- 🐛 **Report issues** or suggest enhancements via GitHub Issues.
+- 💡 **Share your ideas** on our [Ideas Board](../../discussions/categories/ideas).
+
+---
+
+### Contact Information
+
+- **📧 Email:** [info@codebiruny.com](mailto:info@codebiruny.com)  
+- **🌐 Website:** [www.codebiruny.com](https://www.codebiruny.com)  
+- **📱 Social Media:** [Twitter](https://twitter.com/codebiruny) | [LinkedIn](https://linkedin.com/company/codebiruny)
+
+---
+
+### License
+
+This project is licensed under the **MIT License** – see the [LICENSE.md](./LICENSE.md) file for details.
+
+---
+
+### Acknowledgements
+
+A huge thanks to our global team and contributors for their dedication and innovation.
+
+> _Powered by open-source technologies and community support._
+
+---
+
 
