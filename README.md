@@ -48,29 +48,24 @@ Our expertise spans a wide array of modern technologies and tools to ensure robu
 
 We value our community and encourage active participation. Here's how you can connect and contribute:
 
-- **🔧 Issues:** [Report bugs or request features](../../issues)
-- **💬 Discussions:** [Join our community conversations](../../discussions)
-- **📬 Support:** Contact us at [support@codebiruny.com](mailto:support@codebiruny.com)
-
----
+- **Issues:** [Report bugs or request features](../../issues)
+- **Discussions:** [Join our community conversations](../../discussions)
+- **Support:** Contact us at [support@codebiruny.com](mailto:support@codebiruny.com)
 
 ### Get Involved
 
 Help us build better digital bridges! Here’s how you can get involved:
 
-- 🌟 **Star** this repository to stay updated.
-- 🐛 **Report issues** or suggest enhancements via GitHub Issues.
-- 💡 **Share your ideas** on our [Ideas Board](../../discussions/categories/ideas).
-
----
+-  **Star** this repository to stay updated.
+-  **Report issues** or suggest enhancements via GitHub Issues.
+-  **Share your ideas** on our [Ideas Board](../../discussions/categories/ideas).
 
 ### Contact Information
 
-- **📧 Email:** [info@codebiruny.com](mailto:info@codebiruny.com)  
-- **🌐 Website:** [www.codebiruny.com](https://www.codebiruny.com)  
-- **📱 Social Media:** [Twitter](https://twitter.com/codebiruny) | [LinkedIn](https://linkedin.com/company/codebiruny)
+- **Email:** [codebiruny@gmail.com](mailto:codebiruny@gmail.com)  
+- **Website:** [www.codebiruny.com](https://www.codebiruny.com)  
+- **Social Media:** [Twitter](https://twitter.com/codebiruny) | [LinkedIn](https://linkedin.com/company/codebiruny)
 
----
 
 ### License
 
