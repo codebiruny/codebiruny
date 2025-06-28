@@ -1,5 +1,5 @@
 ## Code Biruny - Building Digital Bridges Worldwide
-<img src="./cover1.png" width="100%" />
+<img src="./cover2.webp" width="100%" />
 
 #### About Us
 Code Biruny is a globally recognized technology company committed to delivering seamless digital experiences. We specialize in connecting businesses across continents through innovative and cutting-edge technological solutions, fostering global connectivity.
